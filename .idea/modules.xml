@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringLearn.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringLearn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringLearn_main.iml" group="SpringLearn" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringLearn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringLearn_test.iml" group="SpringLearn" />
+    </modules>
+  </component>
+</project>
